@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DemoCustomerAnalytics"
+  DTS:DTSID="{AC1945CE-96B4-47B3-B9D7-E91FA431D8CB}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=52.232.161.88;User ID=VSIBI;Initial Catalog=CustomerAnalytics;Persist Security Info=True;Application Name=SSIS-DooneyES-{AC1945CE-96B4-47B3-B9D7-E91FA431D8CB}52.232.161.88.CustomerAnalytics.VSIBI;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3yZ+DLNYe0yR8MtATOtFNAAAAAACAAAAAAADZgAAwAAAABAAAABy9t0kXMbEqIpUimwVmRTvAAAAAASAAACgAAAAEAAAAOz685hSPM4RczNnhfc83Bx4AAAAHP9KlRIXvSqgd61kUwz1HSG7TpfGT+Q/L10qxfbOzeIi7rQ96v459fjNT3eLnMN8E3FDlUwmhtJDH+YoRizVBf7YyotbveDZ1jqHmahDzVK2klSrxAYuBVlOfxf2sxIEOi4kh8sfFKvC9cymFBx7nyLDmcoh2dnCFAAAAEHVVekN/NDwEOubly+xMXiCsOLm</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
